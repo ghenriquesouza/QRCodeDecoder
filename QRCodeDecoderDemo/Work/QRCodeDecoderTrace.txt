@@ -1,0 +1,180 @@
+2020/04/07 09:18:29 ----
+2020/04/07 09:18:29 QRCodeDecoderDemo
+2020/04/07 09:20:19 ----
+2020/04/07 09:20:19 QRCodeDecoderDemo
+2020/04/07 09:20:26 ****
+2020/04/07 09:20:26 Decode image: C:\Users\ghenr\Downloads\testeQrCode.png 
+2020/04/07 09:20:26 Image width: 200, Height: 200
+2020/04/07 09:20:26 Convert image to black and white
+2020/04/07 09:20:26 Time: 16
+2020/04/07 09:20:26 Finders search
+2020/04/07 09:20:26 Horizontal Finders count: 88
+2020/04/07 09:20:26 Matched Finders count: 15
+2020/04/07 09:20:26 Remove all unused finders
+2020/04/07 09:20:26 Time: 47
+2020/04/07 09:20:26 Finder: Row: 44, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:20:26 Finder: Row: 44, Col: 156, Module: 8,00, Distance: 0,00
+2020/04/07 09:20:26 Finder: Row: 156, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:20:26 Search for QR corners
+2020/04/07 09:20:26 Decode Corner: Top Left:    Finder: Row: 44, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:20:26 Decode Corner: Top Right:   Finder: Row: 44, Col: 156, Module: 8,00, Distance: 0,00
+2020/04/07 09:20:26 Decode Corner: Bottom Left: Finder: Row: 156, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:20:26 Initial version number: 1, dimension: 21
+2020/04/07 09:20:26 Format info exact match: 77C4, EC: L, mask: 0
+2020/04/07 09:20:26 Decode QR code using three finders
+2020/04/07 09:20:26 Fixed modules no error
+2020/04/07 09:20:26 No data errors
+2020/04/07 09:20:26 Version: 1, Dim: 21, ErrCorr: L, Generator: 7, Mask: 0, Group1: 1:19, Group2: 0:0
+2020/04/07 09:20:26 Data: teste
+2020/04/07 09:20:26 Time: 141
+2020/04/07 09:20:57 ----
+2020/04/07 09:20:57 QRCodeDecoderDemo
+2020/04/07 09:21:57 ****
+2020/04/07 09:21:58 Decode image: C:\Users\ghenr\Downloads\testeQrCode.png 
+2020/04/07 09:21:59 Image width: 200, Height: 200
+2020/04/07 09:22:13 Convert image to black and white
+2020/04/07 09:22:16 Time: 6828
+2020/04/07 09:22:17 Finders search
+2020/04/07 09:22:19 Horizontal Finders count: 88
+2020/04/07 09:22:34 Matched Finders count: 15
+2020/04/07 09:22:34 Remove all unused finders
+2020/04/07 09:22:34 Time: 24922
+2020/04/07 09:22:34 Finder: Row: 44, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:22:34 Finder: Row: 44, Col: 156, Module: 8,00, Distance: 0,00
+2020/04/07 09:22:34 Finder: Row: 156, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:22:34 Search for QR corners
+2020/04/07 09:22:34 Decode Corner: Top Left:    Finder: Row: 44, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:22:34 Decode Corner: Top Right:   Finder: Row: 44, Col: 156, Module: 8,00, Distance: 0,00
+2020/04/07 09:22:34 Decode Corner: Bottom Left: Finder: Row: 156, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:22:34 Initial version number: 1, dimension: 21
+2020/04/07 09:22:34 Format info exact match: 77C4, EC: L, mask: 0
+2020/04/07 09:22:34 Decode QR code using three finders
+2020/04/07 09:22:34 Fixed modules no error
+2020/04/07 09:22:34 No data errors
+2020/04/07 09:22:34 Version: 1, Dim: 21, ErrCorr: L, Generator: 7, Mask: 0, Group1: 1:19, Group2: 0:0
+2020/04/07 09:22:34 Data: teste
+2020/04/07 09:22:34 Time: 25016
+2020/04/07 09:28:30 Convert image to black and white
+2020/04/07 09:28:31 Time: 1125
+2020/04/07 09:28:31 Finders search
+2020/04/07 09:28:33 Horizontal Finders count: 88
+2020/04/07 09:28:55 Matched Finders count: 15
+2020/04/07 09:28:55 Remove all unused finders
+2020/04/07 09:28:55 Time: 25547
+2020/04/07 09:28:55 Finder: Row: 44, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:28:55 Finder: Row: 44, Col: 156, Module: 8,00, Distance: 0,00
+2020/04/07 09:28:55 Finder: Row: 156, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:28:55 Search for QR corners
+2020/04/07 09:28:55 Decode Corner: Top Left:    Finder: Row: 44, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:28:55 Decode Corner: Top Right:   Finder: Row: 44, Col: 156, Module: 8,00, Distance: 0,00
+2020/04/07 09:28:55 Decode Corner: Bottom Left: Finder: Row: 156, Col: 44, Module: 8,00, Distance: 0,00
+2020/04/07 09:28:55 Initial version number: 1, dimension: 21
+2020/04/07 09:28:55 Format info exact match: 77C4, EC: L, mask: 0
+2020/04/07 09:28:55 Decode QR code using three finders
+2020/04/07 09:28:55 Fixed modules no error
+2020/04/07 09:28:55 No data errors
+2020/04/07 09:28:55 Version: 1, Dim: 21, ErrCorr: L, Generator: 7, Mask: 0, Group1: 1:19, Group2: 0:0
+2020/04/07 09:28:55 Data: teste
+2020/04/07 09:28:55 Time: 25625
+2020/04/08 10:48:35 ----
+2020/04/08 10:48:35 QRCodeDecoderDemo
+2020/04/08 10:50:17 ----
+2020/04/08 10:50:17 QRCodeDecoderDemo
+2020/04/08 10:50:28 ****
+2020/04/08 10:50:28 Decode image: C:\Users\ghenr\Downloads\testeqrcode_capturado.png 
+2020/04/08 10:50:28 Image width: 640, Height: 480
+2020/04/08 10:50:28 Convert image to black and white
+2020/04/08 10:50:28 Time: 15
+2020/04/08 10:50:28 Finders search
+2020/04/08 10:50:28 Horizontal Finders count: 13
+2020/04/08 10:50:28 Matched Finders count: 0
+2020/04/08 10:50:28 Remove all unused finders
+2020/04/08 10:50:28 Remove unmatched finders. Less than 3 finders found
+2020/04/08 11:01:25 ----
+2020/04/08 11:01:25 QRCodeDecoderDemo
+2020/04/08 11:01:33 ****
+2020/04/08 11:01:33 Decode image: C:\Users\ghenr\Downloads\testeqrcode_capturado.png 
+2020/04/08 11:01:33 Image width: 406, Height: 398
+2020/04/08 11:01:33 Convert image to black and white
+2020/04/08 11:01:33 Time: 16
+2020/04/08 11:01:33 Finders search
+2020/04/08 11:01:33 Horizontal Finders count: 170
+2020/04/08 11:01:33 Matched Finders count: 9
+2020/04/08 11:01:33 Remove all unused finders
+2020/04/08 11:01:33 Time: 63
+2020/04/08 11:01:33 Finder: Row: 78, Col: 315, Module: 17,50, Distance: 0,71
+2020/04/08 11:01:33 Finder: Row: 87, Col: 74, Module: 17,43, Distance: 1,00
+2020/04/08 11:01:33 Finder: Row: 325, Col: 87, Module: 16,71, Distance: 0,50
+2020/04/08 11:01:33 Search for QR corners
+2020/04/08 11:01:33 Decode Corner: Top Left:    Finder: Row: 87, Col: 74, Module: 17,43, Distance: 1,00
+2020/04/08 11:01:33 Decode Corner: Top Right:   Finder: Row: 78, Col: 315, Module: 17,50, Distance: 0,71
+2020/04/08 11:01:33 Decode Corner: Bottom Left: Finder: Row: 325, Col: 87, Module: 16,71, Distance: 0,50
+2020/04/08 11:01:33 Initial version number: 1, dimension: 21
+2020/04/08 11:01:33 Format info exact match: 789D, EC: L, mask: 3
+2020/04/08 11:01:33 Decode QR code using three finders
+2020/04/08 11:01:33 Fixed modules no error
+2020/04/08 11:01:33 No data errors
+2020/04/08 11:01:33 Version: 1, Dim: 21, ErrCorr: L, Generator: 7, Mask: 3, Group1: 1:19, Group2: 0:0
+2020/04/08 11:01:33 Data: Unimed vampinss
+2020/04/08 11:01:33 Time: 156
+2020/04/08 11:07:18 ----
+2020/04/08 11:07:18 QRCodeDecoderDemo
+2020/04/08 11:07:27 ****
+2020/04/08 11:07:27 Decode image: C:\Users\ghenr\Pictures\qrcode.png 
+2020/04/08 11:07:27 Image width: 640, Height: 480
+2020/04/08 11:07:27 Convert image to black and white
+2020/04/08 11:07:27 Time: 16
+2020/04/08 11:07:27 Finders search
+2020/04/08 11:07:27 Horizontal Finders count: 178
+2020/04/08 11:07:27 Matched Finders count: 9
+2020/04/08 11:07:27 Remove all unused finders
+2020/04/08 11:07:27 Time: 63
+2020/04/08 11:07:27 Finder: Row: 86, Col: 350, Module: 19,43, Distance: 0,50
+2020/04/08 11:07:27 Finder: Row: 97, Col: 85, Module: 19,43, Distance: 1,58
+2020/04/08 11:07:27 Finder: Row: 361, Col: 95, Module: 18,86, Distance: 0,50
+2020/04/08 11:07:27 Search for QR corners
+2020/04/08 11:07:27 Decode Corner: Top Left:    Finder: Row: 97, Col: 85, Module: 19,43, Distance: 1,58
+2020/04/08 11:07:27 Decode Corner: Top Right:   Finder: Row: 86, Col: 350, Module: 19,43, Distance: 0,50
+2020/04/08 11:07:27 Decode Corner: Bottom Left: Finder: Row: 361, Col: 95, Module: 18,86, Distance: 0,50
+2020/04/08 11:07:27 Initial version number: 1, dimension: 21
+2020/04/08 11:07:27 Format info exact match: 789D, EC: L, mask: 3
+2020/04/08 11:07:27 Decode QR code using three finders
+2020/04/08 11:07:27 Fixed modules no error
+2020/04/08 11:07:27 No data errors
+2020/04/08 11:07:27 Version: 1, Dim: 21, ErrCorr: L, Generator: 7, Mask: 3, Group1: 1:19, Group2: 0:0
+2020/04/08 11:07:27 Data: Unimed vampinss
+2020/04/08 11:07:27 Time: 172
+2020/04/08 13:02:16 ----
+2020/04/08 13:02:16 QRCodeDecoderDemo
+2020/04/08 13:02:29 ****
+2020/04/08 13:02:29 Decode image: D:\projetos\QRCODE\QRCodeLibrary_src\QRCodeLibrary_src\QRCodeDecoder\TesteWebCam\Content\Images\imagem.jpg 
+2020/04/08 13:02:29 Image width: 640, Height: 480
+2020/04/08 13:02:29 Convert image to black and white
+2020/04/08 13:02:29 Time: 16
+2020/04/08 13:02:29 Finders search
+2020/04/08 13:02:29 Horizontal Finders count: 221
+2020/04/08 13:02:29 Matched Finders count: 13
+2020/04/08 13:02:29 Remove all unused finders
+2020/04/08 13:02:29 Time: 62
+2020/04/08 13:02:29 Finder: Row: 97, Col: 497, Module: 22,00, Distance: 0,50
+2020/04/08 13:02:29 Finder: Row: 109, Col: 202, Module: 20,36, Distance: 0,00
+2020/04/08 13:02:29 Finder: Row: 391, Col: 210, Module: 19,57, Distance: 0,71
+2020/04/08 13:02:29 Search for QR corners
+2020/04/08 13:02:29 Decode Corner: Top Left:    Finder: Row: 109, Col: 202, Module: 20,36, Distance: 0,00
+2020/04/08 13:02:29 Decode Corner: Top Right:   Finder: Row: 97, Col: 497, Module: 22,00, Distance: 0,50
+2020/04/08 13:02:29 Decode Corner: Bottom Left: Finder: Row: 391, Col: 210, Module: 19,57, Distance: 0,71
+2020/04/08 13:02:29 Initial version number: 1, dimension: 21
+2020/04/08 13:02:29 Format info exact match: 789D, EC: L, mask: 3
+2020/04/08 13:02:29 Decode QR code using three finders
+2020/04/08 13:02:29 Fixed modules no error
+2020/04/08 13:02:29 Decode QR code exception.
+Data is damaged. Error correction failed
+2020/04/08 13:02:29 Time: 156
+2020/04/08 13:02:29 No QR Code found
+2020/04/08 13:02:51 ****
+2020/04/08 13:02:51 Decode image: D:\projetos\QRCODE\QRCodeLibrary_src\QRCodeLibrary_src\QRCodeDecoder\TesteWebCam\Content\Imagesimagem.jpg 
+2020/04/08 13:02:51 Image width: 640, Height: 480
+2020/04/08 13:02:51 Convert image to black and white
+2020/04/08 13:02:51 Time: 15
+2020/04/08 13:02:51 Finders search
+2020/04/08 13:02:51 Horizontal finders search. Less than 3 finders found
